@@ -25,11 +25,10 @@ ul {
 
 a:link, a:active, a:visited {
 	text-decoration: none;
-	color: #65adfd
+	color: #9bc9fd;
 }
-a:hover {
-	text-decoration: underline;
-}
+a:hover { text-decoration: underline; }
+a.github { margin-left: 20px; }
 
 p {
 	margin: 0px 0px 24px 0px;
